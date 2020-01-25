@@ -1,2 +1,2 @@
 # awesome-signatures
-A curated list of resources dedicated to path signature transform and applications
+A curated list of resources dedicated to the path signature transform and its applications
